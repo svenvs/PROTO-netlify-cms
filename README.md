@@ -1,3 +1,0 @@
-# PROTO-netlify-cms
-
-hi
