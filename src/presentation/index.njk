@@ -1,0 +1,12 @@
+---
+layout: slides.njk
+---
+
+
+{%- for slide in collections.slides -%}
+<section>
+  {{slide.templateContent | safe}}
+  </section>
+{%- endfor -%}
+
+
