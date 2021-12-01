@@ -1,6 +1,7 @@
 ---
 title: Explain JAM STACK
 tags: slides
+date: 2021-02-03T20:35:04.429Z
 ---
 
 ## JAM stack
