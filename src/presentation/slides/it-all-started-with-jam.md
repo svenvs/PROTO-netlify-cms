@@ -1,5 +1,4 @@
 ---
-layout: blogDefault
 title: It all started with JAM
 tags: slides
 ---

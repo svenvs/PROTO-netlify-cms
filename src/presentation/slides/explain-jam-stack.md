@@ -1,11 +1,11 @@
 ---
-layout: blogDefault
 title: Explain JAM STACK
 tags: slides
 ---
 
+## JAM stack
 
-![architcture jamstck](https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg "architecture jamstack")
+![architcture jamstck](https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg "architecture jamstack"){.bigger}
 
 * **J**avaScript
 * **A**pi's
