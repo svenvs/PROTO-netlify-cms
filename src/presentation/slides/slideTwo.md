@@ -8,7 +8,10 @@ tags: slides
 
 **Netlify automatically:**
 
-* **Builds**
-* **deploys**
-* **serves**
-* **manages Front end Applications**
+**Builds**
+
+**deploys**
+
+**serves**
+
+**manages Front end Applications**
