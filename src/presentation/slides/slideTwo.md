@@ -1,8 +1,14 @@
 ---
-title: Slide 2
+title: Slide netlify CMS VS Netlify
 tags: slides
 ---
+# What is netlify?
 
-# hieref
+![Netlify logo](https://cdn.worldvectorlogo.com/logos/netlify.svg "Netlify logo")
 
-4rfefef
+**Netlify automatically:**
+
+* **Builds**
+* **deploys**
+* **serves**
+* **manages Front end Applications**
