@@ -6,12 +6,4 @@ tags: slides
 
 ![Netlify logo](https://cdn.worldvectorlogo.com/logos/netlify.svg "Netlify logo")
 
-**Netlify automatically:**
-
-**Builds**
-
-**deploys**
-
-**serves**
-
-**manages Front end Applications**
+**Netlify automatically: Builds, deploys, serves & manages Front end Applications**
