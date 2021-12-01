@@ -1,6 +1,7 @@
 ---
 title: Slide netlify CMS VS Netlify
 tags: slides
+date: 2021-03-31T19:37:41.167Z
 ---
 # What is netlify?
 
