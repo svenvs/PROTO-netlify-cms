@@ -1,6 +1,7 @@
 ---
 title: Thanks some links
 tags: slides
+date: 2021-12-31T20:39:58.216Z
 ---
 # Thanks!
 
