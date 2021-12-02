@@ -8,7 +8,7 @@
     "serve:eleventy": "ELEVENTY_ENV=development eleventy --serve",
     "serve": "npm-run-all clean --parallel serve:*",
     "build:webpack": "webpack --config .webpack.config.js --mode production",
-    "build:eleventy": "ELEVENTY_ENV=production eleventy --pathprefix=PROTO-netlify-cms",
+    "build:eleventy": "ELEVENTY_ENV=production eleventy",
     "build": "run-s clean build:*"
   },
   "repository": {
