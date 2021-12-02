@@ -3,7 +3,7 @@ title: the Static site
 tags: slides
 date: 2021-01-10T09:03:29.785Z
 ---
-# Why where they so good and BAD?
+### Why where they so good and BAD?
 
 **The good:** 
 
